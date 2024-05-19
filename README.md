@@ -23,7 +23,7 @@
 
 📫 **How to reach me**:
 - Email: `pav.dev3@gmail.com`
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [LinkedIn](https://linkedin.com/in/pablo-l-navarro-6b20a5292)
 
 Let's connect and build something amazing together!
 
