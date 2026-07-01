@@ -16,18 +16,6 @@ Building production-ready mobile applications from architecture to deployment.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=plNav&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plNav&layout=compact" />
-
-</div>
-
----
-
 # 👨‍💻 About Me
 
 I'm a **Senior Mobile Engineer** with 6+ years of experience building and maintaining production mobile applications.
